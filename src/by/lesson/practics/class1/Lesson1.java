@@ -20,7 +20,7 @@ public class Lesson1 {
         System.out.println("Введите y");
         int y = sc.nextInt();
         System.out.println("Введите z");
-        int z = sc.nextInt();
+        int z = sc.nextInt();kljlkjklj
         int result = x*(y*z);
         System.out.println("Результат выполнения второго задания: "+ result);
         System.out.println("***********************");
